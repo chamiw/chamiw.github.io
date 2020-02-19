@@ -22,6 +22,6 @@
 
 ## 最新消息
 ### ●  在家学习
-<a class="git-link" href="https://www.bilibili.com/"></a>
+[有趣](url)https://www.bilibili.com/
 ### ……
 ### 无事可讲，静待在大学中充实
