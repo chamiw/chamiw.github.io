@@ -8,7 +8,7 @@
       <p><b>地址：浙江台州，邮编318000</b></p>
     </td>
     <td width="25%">
-      <img src="/download_20191112200311.jpg" width="100%">      
+      <img src="/img_0199.jpg" width="100%">      
     </td>
   </tr>
 </table>
