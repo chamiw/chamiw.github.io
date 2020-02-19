@@ -1,13 +1,13 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="70%">
       <h1>罗丹</h1>
       <p><b>大学本科在读</b></p>
       <p><b>浙江万里学院基础学院</b></p>
       <p><b>邮箱：1678419357@qq.com</b></p>
       <p><b>地址：浙江台州，邮编318000</b></p>
     </td>
-    <td width="25%">
+    <td width="30%">
       <img src="/66e64675daf44169a27cf42836196c10.jpeg" width="100%">      
     </td>
   </tr>
